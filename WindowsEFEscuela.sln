@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsEFEscuela", "WindowsEFEscuela\WindowsEFEscuela.csproj", "{DFF0A838-40DD-4D75-827F-F0FF19ACE04C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsEFEscuela", "WindowsFormsEFEscuela\WindowsFormsEFEscuela.csproj", "{FC308BDF-4233-4E22-9D1E-5677CDB4D78D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DFF0A838-40DD-4D75-827F-F0FF19ACE04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFF0A838-40DD-4D75-827F-F0FF19ACE04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFF0A838-40DD-4D75-827F-F0FF19ACE04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC308BDF-4233-4E22-9D1E-5677CDB4D78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC308BDF-4233-4E22-9D1E-5677CDB4D78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC308BDF-4233-4E22-9D1E-5677CDB4D78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC308BDF-4233-4E22-9D1E-5677CDB4D78D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
